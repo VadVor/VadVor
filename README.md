@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VadVor
+- 👋 Hi, I’m Vadim
 - 👀 I’m interested in Python, Ansible, Networking
 - 🌱 I’m currently learning Ansible
 - 💞️ I’m looking to collaborate on ...
